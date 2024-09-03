@@ -18,3 +18,24 @@ venv/
 
 # Ignorar archivos de medios de Django
 media/
+
+# Ignorar archivos de compilación de Django
+static/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+
+# Ignorar archivos de caché de Python
+*.pyc
+
+# Ignorar archivos de caché de Python
+*.pyo
+
+# Ignorar archivos de caché de Python
+*.pyd
+
+# Ignorar archivos de caché de Python
+*.pyz
+
+# Ignorar archivos de caché de Python
+*.pyw
